@@ -35,13 +35,9 @@ This repository contains a **simple quantum program** using Qiskit to introduce 
    cd Qiskit_1-qubit
    ```
 4. **Install Qiskit** (if not already installed):
-   ```bash
-   pip install qiskit
-   ```
+
 5. **Run the program**:
-   ```bash
-   python 1-qubit.py
-   ```
+
 6. Complete the **tasks** in your forked repo and **push changes** back.  
 
 ---
